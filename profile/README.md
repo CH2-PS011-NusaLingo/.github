@@ -9,4 +9,4 @@
 | C012BSY4290 | Muhammad Rizqi Rasyid Mochsyah | CC | [rrydrr](https://github.com/rrydrr) |
 | A419BSY2651 | All Arief Panca Putra | MD | [allarief](https://github.com/allarief) |
 | A301BSY2335 | Reza Ikbal | MD | [rezaikbal]( https://github.com/rezaikbal) |
-## Our Solutions
+
